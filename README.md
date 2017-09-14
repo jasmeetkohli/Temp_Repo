@@ -7,3 +7,7 @@ c2 - Feature A
 c1 - Feature B
 
 c2 - Feature B
+
+c1 - Feature C
+
+c2 - Feature C
